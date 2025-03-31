@@ -14,5 +14,3 @@ Construir as seguintes consultas:
 - Listar os Produtos sem Estoque;
 - Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
 - Listar os Funcionarios que não estejam relacionados a um Pedido.
-
-- 
